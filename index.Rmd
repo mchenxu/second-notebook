@@ -1,0 +1,75 @@
+---
+title: "1,500 scientists lift the lid on reproducibility"
+author: Monya Baker
+date: "25 May 2025"
+output:
+    html_document:
+      toc: true
+      toc_float: true
+---
+\
+
+## Survey sheds light on the 'crisis' rocking research.
+
+**More than 70% of researches have tried and *failed* to reproduce another scientist's experiments**, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from *Nature's* survey of 1,536 researchers who took a brief online questionnaire on reproducibility in research
+\
+
+The data reveal sometimes-contradictory attitudes towards reproducibility. Although 52% of those surveyed agree that there is a significant 'crisis' of reproducible, less than 31% think that failure to reproduce published results means that the result is probably wrong, and most say that they still trust the published literature. 
+\
+
+!["Description of a graph of the reproducibility crisis"](img/reproducibility-graphic.jpeg)
+\
+
+
+### The survey
+In the survey [^1] respondents were asked to rate 11 different approaches to improving reproducibility in science. Below is the list order by the most highly rated:
+
+* Better understanding of statistics
+* Better mentoring/supervision
+* More robust design
+* Better teaching
+* More within-lab validation
+* Incentives for better practice
+* Incentives for formal reproduction
+* More external-lab validation
+* More time for mentoring
+* Journals enforcing standards
+* More time checking notebooks
+
+### make an ordered list
+1. first item
+    a. item 1a
+        i. item 1ai
+        ii. item 1aii
+2. second item
+3. third item
+
+### make an unordered list
+* item 1
+* item 2
+    * item2a
+        * item2a 
+        
+## checked items 
+- [ ]  unchecked
+- [x]  checked
+
+## making a table
+
+| Column 1 | Column 2 |
+| :------- | :------: |
+| item 1,1 | item 1,2 |
+
+## maing a block
+``` 
+print("Hello world")
+x <- 1 + 2
+print(x)
+```
+
+![R logo](img/rlogo.png)
+
+[link to top](#markdown-header)
+
+[^1]: The survey can be downloaded [here](https://www.nature.com/news/polopoly_fs/7.36741!/file/Reproduciblility%20Questionnaire.doc).
+[^2]: this is the next footnote
